@@ -12,7 +12,7 @@ Este es el repo de la app de productos, para poder ejecutar por favor haga los s
 npm i
 ```
 4. Crear un archivo `.env` basado en el `.env.template`
-5. Levantar la base de datos con
+5. Verificar que se este ejecutando el daemon de docker y luego levantar la base de datos con
 ```
 docker compose up -d
 ```
@@ -34,7 +34,7 @@ npm run start:dev
 npm i
 ```
 3. Crear un archivo `.env` basado en el `.env.template`
-4. Tener levantados los microservicios que se van a consumir
+4. Tener levantado el microservicio de productos `products-ms`
 5. Levantar el proyecto con
 ```
 npm run start:dev
