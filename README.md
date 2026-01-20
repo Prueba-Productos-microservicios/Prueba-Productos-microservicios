@@ -1,6 +1,6 @@
 ## App microservicios productos
 
-Este es el repo de la app de productos, para poder ejecutar por favor haga los siguientes pasos:
+Este este es el repositorio principal de la app de productos, para poder ejecutar toda la app por favor haga los siguientes pasos en cada uno de los repositorios:
 
 ## Products microservice
 
